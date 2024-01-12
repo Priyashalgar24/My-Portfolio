@@ -1,0 +1,11 @@
+<projects>
+    <project>
+        <title>Project 1</title>
+        <description>Description for Project 1</description>
+    </project>
+    <project>
+        <title>Project 2</title>
+        <description>Description for Project 2</description>
+    </project>
+    <!-- More project entries -->
+</projects>
